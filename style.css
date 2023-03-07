@@ -3,3 +3,13 @@
     margin: 0;
     padding: 0;
 }
+.top-part {
+
+    border:red solid;
+}
+.nav-bar {
+
+    border: green solid;
+    display: flex;
+    justify-content: flex-end;
+}
