@@ -4,18 +4,25 @@
     padding: 0;
 }
 .top-part {
-
+    background-color: #1f2937;
     border:red solid;
 }
 .nav-bar {
-    width: 90%;
+    width: 80%;
     margin: 0 auto;
     border: green solid;
 }
 
-.nav-bar-links-container {
+.nav-bar-container ul{
     display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    border: blue solid;
+}
+
+.header-logo {
+    display: flex;
+    flex-grow: 1;
+}
+
+.links {
+    display: flex;
+    margin-left: 15px;
 }
