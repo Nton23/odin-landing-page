@@ -8,8 +8,14 @@
     border:red solid;
 }
 .nav-bar {
-
+    width: 90%;
+    margin: 0 auto;
     border: green solid;
+}
+
+.nav-bar-links-container {
     display: flex;
     justify-content: flex-end;
+    align-items: center;
+    border: blue solid;
 }
