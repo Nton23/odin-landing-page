@@ -26,3 +26,9 @@
     display: flex;
     margin-left: 15px;
 }
+
+.header-left-right-container {
+    border: solid blue;
+    width: 80%;
+    margin: 0 auto;
+}
