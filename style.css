@@ -66,5 +66,10 @@
 }
 .top-middle-part h3{
     text-align: center;
-    
+}
+.square-container {
+    width: 100px;
+    height: 100px;
+    border: rgb(101, 101, 252) solid;
+    border-radius: 5%;
 }
