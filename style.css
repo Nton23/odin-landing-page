@@ -6,12 +6,12 @@
 .top-part {
     background-color: #1f2937;
     border:red solid;
-    width: 80%;
     height: 25%;
 }
 .nav-bar {
     margin: 0 auto;
     border: green solid;
+    width: 80%;
 }
 
 .nav-bar-container ul{
