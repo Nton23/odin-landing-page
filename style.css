@@ -73,3 +73,10 @@
     border: rgb(101, 101, 252) solid;
     border-radius: 5%;
 }
+.square-container-caption {
+    width: 100px;
+}
+.top-middle-part-list-container {
+    display: flex;
+    
+}
