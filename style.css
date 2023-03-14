@@ -122,6 +122,9 @@
     margin: 0 auto;
     height: 120px;
     border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 .bottom-part {
     height: 24vh;
