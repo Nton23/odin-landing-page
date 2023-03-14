@@ -60,7 +60,9 @@
     color: #f9faf8;
     margin-bottom: 5px;
 }
-
+.header-left-right-container p {
+    color: #f9faf8;
+}
 .header-left-right-container p {
     width: 85%;
 }
