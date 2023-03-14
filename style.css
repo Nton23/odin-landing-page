@@ -55,7 +55,12 @@
 
 .header-left-side-container h1 {
     width: 60%;
+    font-size: 28px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+    margin-bottom: 5px;
 }
+
 .header-left-right-container p {
     width: 85%;
 }
