@@ -5,7 +5,7 @@
 }
 .top-part {
     background-color: #1f2937;
-    height: 24vh;
+    height: 25vh;
 }
 .nav-bar {
     margin: 0 auto;
@@ -19,11 +19,18 @@
 .header-logo {
     display: flex;
     flex-grow: 1;
+    margin: 5px;
+    color: #f9faf8;
+    font-size: 24px;
 }
 
 .links {
     display: flex;
     margin-left: 15px;
+    margin: 5px 0;
+    margin-left: 10px;
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 .header-left-right-container {
